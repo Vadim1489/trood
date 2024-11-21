@@ -1,0 +1,15 @@
+.header_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 586px;
+    margin: 20px 0px 0px 20px;
+}
+
+.header_container h2 {
+    font-family: "Aeroport", sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 0.41667;
+    color: #000;
+}
